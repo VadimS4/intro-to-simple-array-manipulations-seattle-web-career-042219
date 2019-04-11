@@ -43,3 +43,7 @@ def using_insert(array, element)
   return @list_of_esoteric_programming_languages.insert(4, "Malbolge")
 end
 
+def using_uniq(array)
+  
+end
+
