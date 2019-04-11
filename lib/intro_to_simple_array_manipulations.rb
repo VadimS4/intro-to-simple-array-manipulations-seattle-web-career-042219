@@ -13,9 +13,7 @@ end
 
 def using_pop(array)
   @great_hits_of_the_nineties = ["Baby One More Time", "Smells Like Teen Spirit", "Missing", "Walking On The Sun", "Hard Knock Life", "Losing My Religion"]
-  @great_hits_of_the_nineties.pop
-  @deleted_string = "Losing My Religion"
-  return @deleted_string
+  return @great_hits_of_the_nineties.pop
 end
 
 def pop_with_args(array)
