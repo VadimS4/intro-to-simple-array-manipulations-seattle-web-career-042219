@@ -9,3 +9,7 @@ def using_unshift(array, string)
   neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
   neighborhoods_in_northwest_brooklyn.unshift(@new_neighborhood)
 end
+
+def pop(array, string)
+  
+end
