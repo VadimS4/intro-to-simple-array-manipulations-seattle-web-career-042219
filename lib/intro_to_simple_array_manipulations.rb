@@ -4,4 +4,5 @@ def using_push(array, string)
   updated_array = countries_in_western_africa.push("Niger")
 end
 
-def using_unshift()
+def using_unshift(array, string)
+  
