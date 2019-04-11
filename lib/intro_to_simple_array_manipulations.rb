@@ -31,7 +31,7 @@ def shift_with_args(array)
   return @ice_cream_brands.shift(2)
 end
 
-def using_concat(array(2))
+def using_concat(array * 2)
   @my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
   more_favs = ["mario kart", "flatiron school"]
   
