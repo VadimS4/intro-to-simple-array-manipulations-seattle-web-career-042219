@@ -17,3 +17,7 @@ def using_pop(array)
   @deleted_string = "Losing My Religion"
   return @deleted_string
 end
+
+def pop_with_args(array)
+  
+end
