@@ -20,3 +20,7 @@ def pop_with_args(array)
   @chars_in_game_of_thrones = ["Danny T.", "Tyrion Lannister", "Stable Boy", "Sandor Clegane"]
   return @chars_in_game_of_thrones.pop(2)
 end
+
+def using_shift(array)
+  
+end
